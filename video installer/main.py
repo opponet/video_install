@@ -139,6 +139,3 @@ def main():
     else:
         ctext("Error ❌","red","black")
 main()
-
-# add shorts youtube
-# https://youtu.be/WEMqvdvGttQ?si=Jacc2Y_Fqr9ic-_C

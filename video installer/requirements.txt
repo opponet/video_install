@@ -1,0 +1,6 @@
+art==6.5
+Color_Console==10.0
+Color_Console==10.0
+pynput==1.8.1
+pytubefix==10.6.1
+termcolor==3.3.0
